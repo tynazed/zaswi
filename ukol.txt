@@ -1,5 +1,5 @@
 do souboru crismapp vytvořit nový soubor, něco tam napsat a pak to poslat zpátky
-New Pull Request
+New Pull Request-Create Pull Request
 
 FTP (File Transfer Protocol)
 potřeba - klient, který umožní přístup na server (Total Commander, Salamander,...)
